@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element_attribute">
+    <sys_sg_view_config_element_attribute action="INSERT_OR_UPDATE">
+        <description>text_03_FieldValue</description>
+        <name display_value="FieldValue">c2eed5c2b7321010df65f6efce11a9cf</name>
+        <sys_class_name>sys_sg_view_config_element_attribute</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-27 05:25:06</sys_created_on>
+        <sys_id>31c57e922ff630104e12b0c62799b699</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>c2eed5c2b7321010df65f6efce11a9cf</sys_name>
+        <sys_package display_value="Schopping List" source="x_698330_schopping">cd1372122ff630104e12b0c62799b6a3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Schopping List">cd1372122ff630104e12b0c62799b6a3</sys_scope>
+        <sys_update_name>sys_sg_view_config_element_attribute_31c57e922ff630104e12b0c62799b699</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-27 06:19:29</sys_updated_on>
+        <translated_value/>
+        <value>item</value>
+        <view_config_element display_value="purchased-FieldValue">f5c57e922ff630104e12b0c62799b697</view_config_element>
+    </sys_sg_view_config_element_attribute>
+    <sys_translated_text action="delete_multiple" query="documentkey=31c57e922ff630104e12b0c62799b699"/>
+</record_update>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_field">
+    <sys_sg_screen_field action="DELETE">
+        <data_item_field_name>item</data_item_field_name>
+        <description_text/>
+        <description_text_field/>
+        <description_text_type/>
+        <field_name/>
+        <hidden>false</hidden>
+        <order>10</order>
+        <record_id_field/>
+        <screen display_value="Details">b5c57e922ff630104e12b0c62799b6be</screen>
+        <screen_data_item_table>x_698330_schopping_schopping_item</screen_data_item_table>
+        <sys_class_name>sys_sg_screen_field</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-27 05:25:07</sys_created_on>
+        <sys_id>31c57e922ff630104e12b0c62799b6c5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>item</sys_name>
+        <sys_package display_value="Schopping List" source="x_698330_schopping">cd1372122ff630104e12b0c62799b6a3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Schopping List">cd1372122ff630104e12b0c62799b6a3</sys_scope>
+        <sys_update_name>sys_sg_screen_field_31c57e922ff630104e12b0c62799b6c5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-27 05:25:07</sys_updated_on>
+        <type>auto</type>
+        <value_only>false</value_only>
+    </sys_sg_screen_field>
+    <sys_translated_text action="DELETE" query="documentkey=31c57e922ff630104e12b0c62799b6c5"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Schopping List">cd1372122ff630104e12b0c62799b6a3</application>
+        <file_path/>
+        <instance_id>54373e4cdb4b40549df22f17d49619b8</instance_id>
+        <instance_name>dev100670</instance_name>
+        <name>sys_sg_screen_field_31c57e922ff630104e12b0c62799b6c5</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_field"><sys_sg_screen_field action="INSERT_OR_UPDATE"><data_item_field_name>item</data_item_field_name><description_text/><description_text_field/><description_text_type/><field_name/><hidden>false</hidden><order>10</order><record_id_field/><screen display_value="Details">b5c57e922ff630104e12b0c62799b6be</screen><screen_data_item_table>x_698330_schopping_schopping_item</screen_data_item_table><sys_class_name>sys_sg_screen_field</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-09-27 05:25:07</sys_created_on><sys_id>31c57e922ff630104e12b0c62799b6c5</sys_id><sys_mod_count>0</sys_mod_count><sys_name>item</sys_name><sys_package display_value="Schopping List" source="x_698330_schopping">cd1372122ff630104e12b0c62799b6a3</sys_package><sys_policy/><sys_scope display_value="Schopping List">cd1372122ff630104e12b0c62799b6a3</sys_scope><sys_update_name>sys_sg_screen_field_31c57e922ff630104e12b0c62799b6c5</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-09-27 05:25:07</sys_updated_on><type>auto</type><value_only>false</value_only></sys_sg_screen_field><sys_translated_text action="delete_multiple" query="documentkey=31c57e922ff630104e12b0c62799b6c5"/></record_update>]]></payload>
+        <payload_hash>32197861</payload_hash>
+        <record_name>item</record_name>
+        <reverted_from/>
+        <source>411372122ff630104e12b0c62799b6a6</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-27 05:25:09</sys_created_on>
+        <sys_id>a6c5be922ff630104e12b0c62799b651</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17c25b6ccfd0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-27 05:25:09</sys_updated_on>
+        <type>Screen fields</type>
+        <update_guid>22c5be92abf630109710956c45fe4551</update_guid>
+        <update_guid_history>22c5be92abf630109710956c45fe4551:32197861</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-27 06:26:30</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_screen_field">sys_sg_screen_field</sys_db_object>
+        <sys_id>1603c91cff8d48e089a0d17bd14da400</sys_id>
+        <sys_metadata>31c57e922ff630104e12b0c62799b6c5</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>item</sys_name>
+        <sys_package display_value="Schopping List" source="x_698330_schopping">cd1372122ff630104e12b0c62799b6a3</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Schopping List">cd1372122ff630104e12b0c62799b6a3</sys_scope>
+        <sys_scope_delete display_value="">9403bcf4eb9b4ad8a46a602815f1dd10</sys_scope_delete>
+        <sys_update_name>sys_sg_screen_field_31c57e922ff630104e12b0c62799b6c5</sys_update_name>
+        <sys_update_version display_value="sys_sg_screen_field_31c57e922ff630104e12b0c62799b6c5">a6c5be922ff630104e12b0c62799b651</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-27 06:26:30</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
